@@ -1,3 +1,5 @@
-.env
-node_modules
-ai-foundations
+*.env
+node_modules/
+ai-foundations/
+__pycache__/
+.DS_store
